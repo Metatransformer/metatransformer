@@ -1,32 +1,26 @@
-# Chatbot UI
+# Metatransformer AI
 
-The open-source AI chat app for everyone.
+The open-source AI SaaS for everyone.
+
+Based on [ChatbotUI](https://github.com/mckaywrigley/chatbot-ui/tree/main)
 
 <img src="./public/readme/screenshot.png" alt="Chatbot UI" width="600">
 
 ## Demo
 
-View the latest demo [here](https://x.com/mckaywrigley/status/1738273242283151777?s=20).
+Coming soon
 
 ## Updates
 
-Hey everyone! I've heard your feedback and am working hard on a big update.
-
-Things like simpler deployment, better backend compatibility, and improved mobile layouts are on their way.
-
-Be back soon.
-
--- Mckay
+Coming soon
 
 ## Official Hosted Version
 
-Use Chatbot UI without having to host it yourself!
-
-Find the official hosted version of Chatbot UI [here](https://chatbotui.com).
+Coming soon
 
 ## Sponsor
 
-If you find Chatbot UI useful, please consider [sponsoring](https://github.com/sponsors/mckaywrigley) me to support my open-source work :)
+If you find Metatransformer useful, please consider [sponsoring](https://github.com/sponsors/rondorkerin) me to support my open-source work :)
 
 ## Issues
 
@@ -45,12 +39,6 @@ We highly encourage you to participate in the "Discussions" tab above!
 Discussions are a great place to ask questions, share ideas, and get help.
 
 Odds are if you have a question, someone else has the same question.
-
-## Legacy Code
-
-Chatbot UI was recently updated to its 2.0 version.
-
-The code for 1.0 can be found on the `legacy` branch.
 
 ## Updating
 
