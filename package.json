@@ -1,6 +1,6 @@
 {
-  "name": "saas-starter-kit",
-  "version": "1.4.1",
+  "name": "metatransformer",
+  "version": "0.0.1",
   "private": true,
   "prisma": {
     "seed": "ts-node ./prisma/seed.ts"

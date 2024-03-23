@@ -1,23 +1,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/boxyhq/jackson/assets/66887028/871d9c0f-d351-49bb-9458-2542830d7910">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/boxyhq/jackson/assets/66887028/4073c181-0653-4d5b-b74f-e7e84fe79da8">
-  <img alt="BoxyHQ Banner" src="https://github.com/boxyhq/jackson/assets/66887028/b40520b7-dbce-400b-88d3-400d1c215ea1">
+  <img alt="BoxyHQ Banner" src="https://metatransformer.com/">
 </picture>
 
-# ⭐ Enterprise SaaS Starter Kit
+# ⭐ Metatransformer: an Open Source AI SaaS for everyone!
 
-<p>
-    <a href="https://github.com/boxyhq/saas-starter-kit/stargazers"><img src="https://img.shields.io/github/stars/boxyhq/saas-starter-kit" alt="Github stargazers"></a>
-    <a href="https://github.com/boxyhq/saas-starter-kit/issues"><img src="https://img.shields.io/github/issues/boxyhq/saas-starter-kit" alt="Github issues"></a>
-    <a href="https://github.com/boxyhq/saas-starter-kit/blob/main/LICENSE"><img src="https://img.shields.io/github/license/boxyhq/saas-starter-kit" alt="license"></a>
-    <a href="https://twitter.com/BoxyHQ"><img src="https://img.shields.io/twitter/follow/BoxyHQ?style=social" alt="Twitter"></a>
-    <a href="https://www.linkedin.com/company/boxyhq"><img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn"></a>
-    <a href="https://discord.gg/uyb7pYt4Pa"><img src="https://img.shields.io/discord/877585485235630130" alt="Discord"></a>
-</p>
+<p>By [Nick Bryant](https://twitter.com/nickbryantfyi) [Metatransformer LLC](https://metatransformer.com)
 
-The Open Source Next.js SaaS boilerplate for Enterprise SaaS app development.
-
-Please star ⭐ the repo if you want us to continue developing and improving the SaaS Starter Kit! 😀
+Please star ⭐ the repo if you want us to continue developing and improving the Metatransformer SaaS!
 
 ## 📖 Additional Resources
 
@@ -28,15 +19,16 @@ Next.js-based SaaS starter kit saves you months of development by starting you o
 
 ## 🛠️ Built With
 
-- [Next.js](https://nextjs.org)
-- [Tailwind CSS](https://tailwindcss.com)
-- [Postgres](https://www.postgresql.org)
-- [React](https://reactjs.org)
-- [Prisma](https://www.prisma.io)
-- [TypeScript](https://www.typescriptlang.org)
-- [SAML Jackson](https://github.com/boxyhq/jackson) (Provides SAML SSO, Directory Sync)
-- [Svix](https://www.svix.com/) (Provides Webhook Orchestration)
-- [Retraced](https://github.com/retracedhq/retraced) (Provides Audit Logs Service)
+-   [Boxy Enterprise Starter Kit](https://github.com/boxyhq/saas-starter-kit)
+-   [Next.js](https://nextjs.org)
+-   [Tailwind CSS](https://tailwindcss.com)
+-   [Postgres](https://www.postgresql.org)
+-   [React](https://reactjs.org)
+-   [Prisma](https://www.prisma.io)
+-   [TypeScript](https://www.typescriptlang.org)
+-   [SAML Jackson](https://github.com/boxyhq/jackson) (Provides SAML SSO, Directory Sync)
+-   [Svix](https://www.svix.com/) (Provides Webhook Orchestration)
+-   [Retraced](https://github.com/retracedhq/retraced) (Provides Audit Logs Service)
 
 ## 🚀 Deployment
 
@@ -58,17 +50,17 @@ Please follow these simple steps to get a local copy up and running.
 
 ### Prerequisites
 
-- Node.js (Version: >=18.x)
-- PostgreSQL
-- NPM
-- Docker compose
+-   Node.js (Version: >=18.x)
+-   PostgreSQL
+-   NPM
+-   Docker compose
 
 ### Development
 
 #### 1. Setup
 
-- [Fork](https://github.com/boxyhq/saas-starter-kit/fork) the repository
-- Clone the repository by using this command:
+-   [Fork](https://github.com/boxyhq/saas-starter-kit/fork) the repository
+-   Clone the repository by using this command:
 
 ```bash
 git clone https://github.com/<your_github_username>/saas-starter-kit.git
@@ -150,28 +142,28 @@ _Note: HTML test report is generated inside the `report` folder. Currently suppo
 
 ## 🥇 Features
 
-- Create account
-- Sign in with Email and Password
-- Sign in with Magic Link
-- Sign in with SAML SSO
-- Sign in with Google [[Setting up Google OAuth](https://support.google.com/cloud/answer/6158849?hl=en)]
-- Sign in with GitHub [[Creating a Github OAuth App](https://docs.github.com/en/developers/apps/building-oauth-apps/creating-an-oauth-app)]
-- Directory Sync (SCIM)
-- Update account
-- Create team
-- Invite users to the team
-- Manage team members
-- Update team settings
-- Webhooks & Events
-- Internationalization
-- Audit logs
-- Roles and Permissions
-- Dark mode
+-   Create account
+-   Sign in with Email and Password
+-   Sign in with Magic Link
+-   Sign in with SAML SSO
+-   Sign in with Google [[Setting up Google OAuth](https://support.google.com/cloud/answer/6158849?hl=en)]
+-   Sign in with GitHub [[Creating a Github OAuth App](https://docs.github.com/en/developers/apps/building-oauth-apps/creating-an-oauth-app)]
+-   Directory Sync (SCIM)
+-   Update account
+-   Create team
+-   Invite users to the team
+-   Manage team members
+-   Update team settings
+-   Webhooks & Events
+-   Internationalization
+-   Audit logs
+-   Roles and Permissions
+-   Dark mode
 
 ## ➡️ Coming Soon
 
-- Billing & subscriptions
-- Unit and integration tests
+-   Billing & subscriptions
+-   Unit and integration tests
 
 ## ✨ Contributing
 
@@ -179,19 +171,19 @@ Thanks for taking the time to contribute! Contributions make the open-source com
 
 Please try to create bug reports that are:
 
-- _Reproducible._ Include steps to reproduce the problem.
-- _Specific._ Include as much detail as possible: which version, what environment, etc.
-- _Unique._ Do not duplicate existing opened issues.
-- _Scoped to a Single Bug._ One bug per report.
+-   _Reproducible._ Include steps to reproduce the problem.
+-   _Specific._ Include as much detail as possible: which version, what environment, etc.
+-   _Unique._ Do not duplicate existing opened issues.
+-   _Scoped to a Single Bug._ One bug per report.
 
 [Contributing Guide](https://github.com/boxyhq/saas-starter-kit/blob/main/CONTRIBUTING.md)
 
 ## 🤩 Community
 
-- [Discord](https://discord.gg/uyb7pYt4Pa) (For live discussion with the Open-Source Community and BoxyHQ team)
-- [Twitter](https://twitter.com/BoxyHQ) / [LinkedIn](https://www.linkedin.com/company/boxyhq) (Follow us)
-- [Youtube](https://www.youtube.com/@boxyhq) (Watch community events and tutorials)
-- [GitHub Issues](https://github.com/boxyhq/saas-starter-kit/issues) (Contributions, report issues, and product ideas)
+-   [Discord](https://discord.gg/uyb7pYt4Pa) (For live discussion with the Open-Source Community and BoxyHQ team)
+-   [Twitter](https://twitter.com/BoxyHQ) / [LinkedIn](https://www.linkedin.com/company/boxyhq) (Follow us)
+-   [Youtube](https://www.youtube.com/@boxyhq) (Watch community events and tutorials)
+-   [GitHub Issues](https://github.com/boxyhq/saas-starter-kit/issues) (Contributions, report issues, and product ideas)
 
 ## 🌍 Contributors
 
