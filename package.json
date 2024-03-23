@@ -1,6 +1,6 @@
 {
   "name": "metatransformer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "prisma": {
     "seed": "ts-node ./prisma/seed.ts"
